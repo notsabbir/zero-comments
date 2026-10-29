@@ -31,7 +31,7 @@ Code should be self-documenting. Explanatory comments frequently rot, contradict
 Clone or copy this folder into your local Antigravity plugins directory:
 
 ```bash
-git clone https://github.com/your-username/zero-comments-plugin.git ~/.gemini/config/plugins/zero-comments
+git clone https://github.com/notsabbir/zero-comments.git ~/.gemini/config/plugins/zero-comments
 ```
 
 Restart Antigravity or enable the plugin in the Plugins settings.
