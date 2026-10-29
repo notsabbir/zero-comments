@@ -1,0 +1,11 @@
+{
+  "name": "zero-comments",
+  "displayName": "Zero Comments",
+  "version": "1.0.0",
+  "description": "Enforces strictly zero comments across entire codebases. Audits, detects, and cleanly strips comments across Kotlin, Java, Python, TypeScript, XML, scripts, and build files.",
+  "suggestedPrompts": [
+    "Scan this project and remove all comments from all files",
+    "Audit repository for any comment violations",
+    "Strip comments from the latest modified files"
+  ]
+}
